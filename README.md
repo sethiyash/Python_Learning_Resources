@@ -5,3 +5,11 @@ Python Resources -
 Refer - https://www.datacamp.com/community/tutorials/decorators-python
 
 
+
+
+
+
+
+Flask - 
+
+* Blueprints - http://exploreflask.com/en/latest/blueprints.html
